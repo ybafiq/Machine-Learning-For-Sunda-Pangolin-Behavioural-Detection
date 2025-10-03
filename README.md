@@ -1,4 +1,4 @@
-# machine learning for behavioural detection of Pangolin Sunda
+# Machine-Learning-For-Sunda-Pangolin-Behavioural-Detection
 from ultralytics import YOLO
 
 model = YOLO("yolo11m.pt")
